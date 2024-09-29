@@ -4,3 +4,7 @@ numpy
 matplotlib
 seaborn
 streamlit-extras
+PdfReader
+langchain_openai
+sklearn
+PyPDF2
