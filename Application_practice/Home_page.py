@@ -165,7 +165,7 @@ For any queries or support, feel free to contact us:
 <div class="contact-details">
 - <strong>Email:</strong> vishnunpoojary34@gmail.com  
 - <strong>Phone:</strong> +91 8317422461  
-- <strong>Website:</strong> [https://finsightais.streamlit.app/]
+- <strong>Website:</strong> [finsightais.streamlit.app]
 </div>
 
 We are available to assist you Monday through Friday, 9 AM to 5 PM (EST).
